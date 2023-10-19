@@ -7,7 +7,7 @@ I'm currently learning HTML, CSS, and JavaScript and also beginning to learn Rea
 I'm also a big fan of open source software, and I'm always looking for new projects to contribute to. 🤝
 
 In my free time, I enjoy watching 🏈, playing video games 🎮, and spending time with my friends and family. 👨‍👩‍👧‍👦 
-I'm love learning new things, so if you have any recommendations for books, resources, or courses, please let me know! 📚
+I love learning new things, so if you have any recommendations for books, resources, or courses, please let me know! 📚
 
 I'm currently looking for work as a front-end web developer, so if you know of any openings, please don't hesitate to reach out. 📨
 
