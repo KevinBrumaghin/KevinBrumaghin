@@ -1,7 +1,7 @@
 👋 Hi! I'm Kevin Brumaghin, a new front-end web developer. 👩‍💻
 
 I first started learning web development in high school and continued through college, but I eventually pursued other job opportunities for a few years before getting back to tech.
-I'm now back at it and loving it more than ever! I'm self-taught and I'm always learning new things. 💡
+I'm now back at it and loving it more than ever! I'm self-taught and always learning new things. 💡
 
 I'm currently learning HTML, CSS, and JavaScript and also beginning to learn React.
 I'm also a big fan of open source software, and I'm always looking for new projects to contribute to. 🤝
